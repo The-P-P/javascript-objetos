@@ -26,7 +26,7 @@ client.cep = '64353-434'
 
 console.log(client.cep)
 
-client.name = 'pedro amorim'
+client.nome = 'pedro amorim'
 
 console.log(client)
 
